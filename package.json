@@ -1,0 +1,28 @@
+{
+  "name": "huffman-encoding-example",
+  "version": "1.0.0",
+  "description": "An app to show how Huffman encoding works",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp src/index.html dist/ && ./node_modules/browserify/bin/cmd.js src/js/encode.js -o dist/bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tjaartvdwalt/hufmann-encoding-example.git"
+  },
+  "keywords": [
+    "huffman",
+    "jpeg"
+  ],
+  "author": "Tjaart van der Walt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjaartvdwalt/hufmann-encoding-example/issues"
+  },
+  "homepage": "https://github.com/tjaartvdwalt/hufmann-encoding-example#readme",
+  "dependencies": {
+    "binaryheap": "0.0.3",
+    "jquery": "^2.2.1"
+  }
+}
