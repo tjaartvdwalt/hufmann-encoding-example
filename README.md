@@ -1,5 +1,5 @@
 # Huffman Encoding Example #
-This app illustrates Huffman Encoding. View [the demo](dist/index.html). 
+This app illustrates Huffman Encoding. View [the demo](http://tjaartvdwalt.github.io/hufmann-encoding-example). 
 
 # For developers #
 
