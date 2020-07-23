@@ -23,6 +23,6 @@
   "homepage": "https://github.com/tjaartvdwalt/hufmann-encoding-example#readme",
   "dependencies": {
     "binaryheap": "0.0.3",
-    "jquery": "^2.2.1"
+    "jquery": "^3.5.1"
   }
 }
